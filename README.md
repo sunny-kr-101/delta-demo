@@ -1,2 +1,4 @@
 # delta-demo
-this is a demo for git and git hub class. jiii
+this is a demo for git and git hub class. jii
+# student 
+sunny 
